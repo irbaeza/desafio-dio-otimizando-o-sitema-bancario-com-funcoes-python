@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# desafio-dio-otimizando-o-sitema-bancario-com-funcoes-python
-=======
 # Sistema Bancário Simples com Python
 
 Este projeto é uma aplicação de terminal para simular operações bancárias simples, como depósito, saque, consulta de extrato, criação de usuários, e criação/acesso a contas correntes. O sistema permite gerenciar usuários e suas respectivas contas bancárias de maneira eficiente.
@@ -135,4 +132,3 @@ usuarios = [
 ## Considerações Finais
 
 Este projeto serve como um exemplo didático para reforçar conceitos de funções, manipulação de dicionários e listas, controle de fluxo e lógica de negócios com Python. Pode ser expandido para incluir mais funcionalidades, como persistência de dados em banco de dados ou autenticação de usuários.
->>>>>>> 9d0e947 (Adiciona sistema bancário e README)
